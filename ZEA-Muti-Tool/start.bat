@@ -1,0 +1,2 @@
+python ZEA.py
+pause
