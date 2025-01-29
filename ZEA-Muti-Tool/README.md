@@ -19,7 +19,7 @@
 ## > 📸 Pictures
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://cdn.discordapp.com/attachments/1274370571173625856/1274784761977507860/cyb3rtechtool.jpg?ex=66ce0f53&is=66ccbdd3&hm=be84c5f81d668d030d923628db2c32163ddd9c32a93c9669993a0c30dd2ef653&" alt="Screen Tool" style="width:100%; height:300px; object-fit:cover;"/>
+    <img src="https://cdn.discordapp.com/attachments/1331702780842217542/1334193583963639980/47j271d.png?ex=679ba41a&is=679a529a&hm=bb796b292ebf6988aea7e65e1085f443794b49c6dc4bcf25ffdf6993ef5e708e&" alt="Screen Tool" style="width:100%; height:300px; object-fit:cover;"/>
 </div>
 
 # > ⌛️ Instalation
