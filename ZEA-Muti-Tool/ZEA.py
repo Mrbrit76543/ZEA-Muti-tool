@@ -49,7 +49,7 @@ ___  ____ ____    _  _ _  _ ___ _    ___ ____ ____ _
       ║ ZEA Tool | v1.0.4 | [0] > Support (discord) https://discord.gg/un4yj5xvV7                         
       ║══════════════════════════════════════════════════════════════════════════════════║
       ║                                                                                  ║
-      ║ [1] > Tool Info                 [11] > Discord Token Info                        ║
+      ║ [1] > N/A                       [11] > Discord Token Info                        ║
       ║ [2] > IP Info                   [12] > Discord Token Nuker                       ║
       ║ [3] > Spoofer                   [13] > Discord Token Joiner                      ║
       ║ [4] > Mass Report (#soon)       [14] > Discord Token BruteForce                  ║
@@ -72,7 +72,7 @@ ___  ____ ____    _  _ _  _ ___ _    ___ ____ ____ _
                 if choice == 0:
                     os.system('python ./tools/discord.py')
                 elif choice == 1:
-                    os.system('python ./tools/tool_info.py')
+                    os.system('python ./tools/cyb3rtech.py')
                 elif choice == 2:
                     os.system('python ./tools/geoip.py')
                 elif choice == 3:
