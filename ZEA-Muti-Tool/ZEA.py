@@ -52,7 +52,7 @@ ___  ____ ____    _  _ _  _ ___ _    ___ ____ ____ _
       ║ [1] > N/A                       [11] > Discord Token Info                        ║
       ║ [2] > IP Info                   [12] > Discord Token Nuker                       ║
       ║ [3] > Spoofer                   [13] > Discord Token Joiner                      ║
-      ║ [4] > Mass Report (#soon)       [14] > Discord Token BruteForce                  ║
+      ║ [4] > Mass Report (NEW)         [14] > Discord Token BruteForce                  ║
       ║ [5] > Phone Number Lookup       [15] > N/A                                       ║
       ║ [6] > Mail Info                 [16] > Discord Token Generator                   ║
       ║ [7] > Username Tracker          [17] > Discord Nitro Generator                   ║
@@ -78,7 +78,7 @@ ___  ____ ____    _  _ _  _ ___ _    ___ ____ ____ _
                 elif choice == 3:
                     os.system('python ./tools/ZEA_Spoofer.py')
                 elif choice == 4:
-                    os.system('python ./cyb3rtech.py')
+                    os.system('python ./tools/Mass_report_new.py')
                 elif choice == 5:
                     os.system('python ./tools/phone_number.py')
                 elif choice == 6:
